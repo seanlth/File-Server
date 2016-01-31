@@ -1,5 +1,5 @@
 [package]
-name = "Client"
+name = "Clnt"
 version = "0.1.0"
 authors = ["hargados <hargados@tcd.ie>"]
 

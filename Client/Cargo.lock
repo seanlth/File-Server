@@ -1,5 +1,5 @@
 [root]
-name = "Client"
+name = "Clnt"
 version = "0.1.0"
 dependencies = [
  "regex 0.1.43 (registry+https://github.com/rust-lang/crates.io-index)",

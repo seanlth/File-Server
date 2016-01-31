@@ -8,7 +8,7 @@ use regex::Regex;
 use DirSrv::srv::*;
 
 fn main() {
-    let mut dir = DirectoryServer::new(8888, 3);
+    let mut dir = DirectoryServer::new(8888);
 
     //let parse = Regex::new(r"^ADD (([1-9]\d\d)|([1-9]\d)|(\d)).(([1-9]\d\d)|([1-9]\d)|(\d)).(([1-9]\d\d)|([1-9]\d)|(\d)).(([1-9]\d\d)|([1-9]\d)|(\d))$").unwrap();
 
